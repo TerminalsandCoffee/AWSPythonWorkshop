@@ -1,4 +1,4 @@
-#Variables
+#Variables from the aws workshop
 
 
 a_str = "This is an example of a string in quotes" # In python the word string is abbreviated to str
